@@ -1,6 +1,6 @@
 ## Olá, pessoal! 👋
 
-<h2>Eu sou o Nicollas Almeida Lopes, sou estudante de Análise e Desenvolvimento de Sistemas na SPTech  tenho conhecimento de algumas linguagens
+<h2>Eu sou o Nicollas Almeida Lopes, sou estudante de Análise e Desenvolvimento de Sistemas na SPTech e tenho conhecimento de algumas linguagens
 e tecnologias na área da programação web, como por exemplo:
 </h2> 
 <br>
